@@ -1,1 +1,1 @@
-open "https://www.google.com/"
+open "https://www.example.com/"
